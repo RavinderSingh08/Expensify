@@ -3,7 +3,7 @@
 ![Expense Tracker](https://i.ibb.co/VJjj3Kp/Screenshot-2020-12-18-205600.png)
 
 ## Live Project Link
-Live Project Link : https://moviverse-app.netlify.app/
+Live Project Link : https://expensify-expensetracker.netlify.app
 
 ## Introduction
 This is a code repository for the corresponding Project.
